@@ -1,5 +1,10 @@
 # Data
-data/
+data/*
+
+!data/.gitkeep
+
+# Mac OS
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
